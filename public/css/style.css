@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(https://timely.ne.jp/wp/wp-content/uploads/2022/07/g-h7-9.webp);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/96/Intel_Core_2020_logo.svg);
     background-size: cover;
 }
 
@@ -23,7 +23,7 @@
     font-size: 4em;
     font-weight: bold;
     font-family: ", "Yu Mincho", "YuMincho, serif;
-    color: #ffd700;
+    color: #0000ff;
     text-align: center;
 }
 
