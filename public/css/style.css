@@ -22,13 +22,13 @@
     /* display: inline; */
     font-size: 4em;
     font-weight: bold;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: rgb(149, 255, 0);
+    font-family: "", "Yu Mincho", YuMincho, serif;
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #ff0000;
 }
 
 .content-section .container { 
@@ -37,7 +37,7 @@
 
 .my-footer{
     height: 20vh;
-    background-color: white;
+    background-color: rgb(255, 0, 0);
 }
 
 .my-footer .container { 
@@ -49,5 +49,5 @@
 }
 
 .privacy-policy-link{
-    color: #3cbf49;
+    color: #000000;
 }
