@@ -20,15 +20,15 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 6em;
     font-weight: bold;
-    font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: rgb(187, 196, 239);
+    /* font-family: "游明朝体", "Yu Mincho", YuMincho, serif; */
+    color: rgba(234, 244, 245, 0.442);
     text-align: center;
 }
 
 .content-section { 
-    background-color: hsla(210, 80%, 71%, 0.996);
+    background-color: hsla(210, 68%, 75%, 0.996);
 }
 
 .content-section .container { 
@@ -37,7 +37,7 @@
 
 .my-footer{
     height: 20vh;
-    background-color: rgba(117, 185, 231, 0.861);
+    background-color: rgba(249, 252, 254, 0.861);
 }
 
 .my-footer .container { 
@@ -49,5 +49,9 @@
 }
 
 .privacy-policy-link{
-    color: hwb(210 40% 18%);
+    color: hwb(218 5% 6% / 0.757);
+}
+
+*{
+    font-family: "cursive", "cursive", cursive, serif;
 }
