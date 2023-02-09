@@ -1,5 +1,5 @@
 .navbar{
-    background-color:white;
+    background-color:rgb(137, 223, 255)
 }
 
 .top-section { 
@@ -28,7 +28,7 @@
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color:rgb(137, 223, 255)
 }
 
 .content-section .container { 
@@ -37,7 +37,7 @@
 
 .my-footer{
     height: 20vh;
-    background-color: white;
+    background-color:rgb(137, 223, 255)
 }
 
 .my-footer .container { 
@@ -49,5 +49,5 @@
 }
 
 .privacy-policy-link{
-    color: #3cbf49;
+    color: #35c7aa;
 }
